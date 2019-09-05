@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-08-10T00:21:29Z" name="Default suite" finished-at="2019-08-10T00:21:29Z" duration-ms="31">
+    <groups>
+    </groups>
+    <test started-at="2019-08-10T00:21:29Z" name="Default test" finished-at="2019-08-10T00:21:29Z" duration-ms="31">
+      <class name="testNG.FirstTestNGClass">
+        <test-method signature="loginAppl()[pri:1, instance:testNG.FirstTestNGClass@55a561cf]" started-at="2019-08-10T00:21:29Z" name="loginAppl" description="test case started" finished-at="2019-08-10T00:21:29Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAppl -->
+        <test-method signature="loginApplmid()[pri:2, instance:testNG.FirstTestNGClass@55a561cf]" started-at="2019-08-10T00:21:29Z" name="loginApplmid" description="test case in mid" finished-at="2019-08-10T00:21:29Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApplmid -->
+        <test-method signature="loginApplend()[pri:3, instance:testNG.FirstTestNGClass@55a561cf]" started-at="2019-08-10T00:21:29Z" name="loginApplend" description="test case in end" finished-at="2019-08-10T00:21:29Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApplend -->
+      </class> <!-- testNG.FirstTestNGClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
